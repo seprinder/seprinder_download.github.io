@@ -1,6 +1,4 @@
-# WELCOME
-
-Dưới đây là thư mục cho phần mềm kết nối máy in 3D với website & hướng dẫn dùng Cura để nạp lên Seprinder.
+Đây là thư mục cho phần mềm kết nối máy in 3D với website & hướng dẫn dùng Cura để nạp lên Seprinder.com
 
 ---
 
@@ -17,7 +15,7 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nh�
 ---
 
 ## Seprinder_Machine
-Hướng dẫn đăng sản phẩm lên Seprinder (thêm danh mục, giá, hình ảnh, biến thể).  
+Hướng dẫn đăng sản phẩm lên Seprinder.
 [![Open Seprinder_Machine](https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_Machine)
 
 ---
