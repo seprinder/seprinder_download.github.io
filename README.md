@@ -10,7 +10,7 @@ Kết nối máy in 3D với website để nhận G-code, giám sát và vận h
 ---
 
 ## Seprinder_Cura
-Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nhất quán trên web.  
+Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice.  
 
 [![Open Seprinder_Cura](https://img.shields.io/badge/Open-Seprinder_Cura-38a169?style=for-the-badge)](https://github.com/seprinder/Seprinder_Cura)
 
