@@ -1,4 +1,4 @@
-Đây là thư mục cho phần mềm kết nối máy in 3D với website [Seprinder.com](Seprinder.com)
+Đây là thư mục cho phần mềm kết nối máy in 3D với [Seprinder.com](Seprinder.com)
 
 ---
 
