@@ -40,6 +40,23 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nh�
 
   </td>
   </tr>
+
+  <!-- New row: Seprinder_Machine -->
+  <tr>
+    <td colspan="2" valign="top">
+
+### Seprinder_Machine
+Hướng dẫn đăng sản phẩm lên Seprinder.
+
+<p align="center">
+  <a href="https://github.com/seprinder/Seprinder_Machine.git">
+    <img alt="Open Seprinder_Machine" src="https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge">
+  </a>
+</p>
+
+&nbsp;
+   
+  </tr>
 </table>
 
 <hr/>
@@ -49,6 +66,8 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nh�
   <a href="https://github.com/seprinder/Seprinder_Bridge">Seprinder_Bridge</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/seprinder/Seprinder_Cura">Seprinder_Cura</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/seprinder/Seprinder_Machine.git">Seprinder_Machine</a>
 </p>
 
 <!-- Footer note -->
