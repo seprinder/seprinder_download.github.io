@@ -1,76 +1,30 @@
-<!-- Hero -->
-<h1 align="center">WELCOME</h1>
-<p align="center">
-  Dưới đây là thư mục cho phần mềm kết nối máy in 3D với website & hướng dẫn dùng Cura để nạp lên Seprinder.
-</p>
+# WELCOME
 
-<hr/>
+Dưới đây là thư mục cho phần mềm kết nối máy in 3D với website & hướng dẫn dùng Cura để nạp lên Seprinder.
 
-</details>
+---
 
-<!-- Two-card layout -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+## Seprinder_Bridge
+Kết nối máy in 3D với website để nhận G-code, giám sát và vận hành từ xa.  
+[![Open Seprinder_Bridge](https://img.shields.io/badge/Open-Seprinder_Bridge-2b6cb0?style=for-the-badge)](https://github.com/seprinder/Seprinder_Bridge)
 
-### Seprinder_Bridge
-Kết nối máy in 3D với website để nhận G-code, giám sát và vận hành từ xa.
+---
 
-<p align="center">
-  <a href="https://github.com/seprinder/Seprinder_Bridge">
-    <img alt="Open Seprinder_Bridge" src="https://img.shields.io/badge/Open-Seprinder_Bridge-2b6cb0?style=for-the-badge">
-  </a>
-</p>
+## Seprinder_Cura
+Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nhất quán trên web.  
+[![Open Seprinder_Cura](https://img.shields.io/badge/Open-Seprinder_Cura-38a169?style=for-the-badge)](https://github.com/seprinder/Seprinder_Cura)
 
-&nbsp;
+---
 
-  </td>
-  <td width="50%" valign="top">
+## Seprinder_Machine
+Hướng dẫn đăng sản phẩm lên Seprinder (thêm danh mục, giá, hình ảnh, biến thể).  
+[![Open Seprinder_Machine](https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_Machine)
 
-### Seprinder_Cura
-Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nhất quán trên web.
+---
 
-<p align="center">
-  <a href="https://github.com/seprinder/Seprinder_Cura">
-    <img alt="Open Seprinder_Cura" src="https://img.shields.io/badge/Open-Seprinder_Cura-38a169?style=for-the-badge">
-  </a>
-</p>
+### Quick links
+- [Seprinder_Bridge](https://github.com/seprinder/Seprinder_Bridge)
+- [Seprinder_Cura](https://github.com/seprinder/Seprinder_Cura)
+- [Seprinder_Machine](https://github.com/seprinder/Seprinder_Machine)
 
-&nbsp;
-
-  </td>
-  </tr>
-
-  <!-- New row: Seprinder_Machine -->
-  <tr>
-    <td colspan="2" valign="top">
-
-### Seprinder_Machine
-Hướng dẫn đăng sản phẩm lên Seprinder.
-
-<p align="center">
-  <a href="https://github.com/seprinder/Seprinder_Machine.git">
-    <img alt="Open Seprinder_Machine" src="https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge">
-  </a>
-</p>
-
-&nbsp;
-   
-  </tr>
-</table>
-
-<hr/>
-
-<!-- Quick links -->
-<p align="center">
-  <a href="https://github.com/seprinder/Seprinder_Bridge">Seprinder_Bridge</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/seprinder/Seprinder_Cura">Seprinder_Cura</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/seprinder/Seprinder_Machine.git">Seprinder_Machine</a>
-</p>
-
-<!-- Footer note -->
-<p align="center">
-  Tối ưu cho trải nghiệm vận hành máy in 3D từ xa cùng Seprinder.
-</p>
+---
