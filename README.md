@@ -16,6 +16,7 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice nh�
 
 ## Seprinder_Machine
 Hướng dẫn đăng sản phẩm lên Seprinder.
+
 [![Open Seprinder_Machine](https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_Machine)
 
 ---
