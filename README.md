@@ -1,4 +1,4 @@
-Đây là thư mục cho phần mềm kết nối máy in 3D với [Seprinder.com](Seprinder.com)
+Đây là thư mục cho phần mềm kết nối máy in 3D với [Seprinder.com](https://Seprinder.com)
 
 ---
 
@@ -17,9 +17,16 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice.
 ---
 
 ## Seprinder_Machine
-Hướng dẫn đăng sản phẩm lên Seprinder.
+Hướng dẫn đăng sản phẩm lên Seprinder.  
 
 [![Open Seprinder_Machine](https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_Machine)
+
+---
+
+## Seprinder_Cai_Dat_Klipper
+Hướng dẫn cài đặt Klipper và KIAUH cho máy in 3D chạy Klipper.  
+
+[![Open Seprinder_Cai_Dat_Klipper](https://img.shields.io/badge/Open-Seprinder_Cai__Dat__Klipper-4f46e5?style=for-the-badge)](https://github.com/seprinder/seprinder_cai_dat_klipper)
 
 ---
 
@@ -27,5 +34,6 @@ Hướng dẫn đăng sản phẩm lên Seprinder.
 - [Seprinder_Bridge](https://github.com/seprinder/Seprinder_Bridge)
 - [Seprinder_Cura](https://github.com/seprinder/Seprinder_Cura)
 - [Seprinder_Machine](https://github.com/seprinder/Seprinder_Machine)
+- [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder/seprinder_cai_dat_klipper)
 
 ---
