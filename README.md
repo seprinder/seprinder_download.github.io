@@ -16,10 +16,10 @@ Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice.
 
 ---
 
-## Seprinder_Machine
+## Seprinder_Huong_Dan_Dang_San_Pham
 Hướng dẫn đăng sản phẩm lên Seprinder.  
 
-[![Open Seprinder_Machine](https://img.shields.io/badge/Open-Seprinder_Machine-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_Machine)
+[![Open Seprinder_Huong_Dan_Dang_San_Pham](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Dang__San__Pham-d97706?style=for-the-badge)](https://github.com/seprinder/Seprinder_huong_dan_dang_san_pham)
 
 ---
 
