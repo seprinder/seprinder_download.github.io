@@ -23,6 +23,13 @@ Hướng dẫn đăng sản phẩm lên Seprinder.
 
 ---
 
+## Seprinder_Huong_Dan_Them_May_In
+Hướng dẫn thêm máy in vào hệ thống Seprinder để kết nối và vận hành.  
+
+[![Open Seprinder_Huong_Dan_Them_May_In](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Them__May__In-0ea5e9?style=for-the-badge)](https://github.com/seprinder/seprinder_huong_dan_them_may_in)
+
+---
+
 ## Seprinder_Cai_Dat_Klipper
 Hướng dẫn cài đặt Klipper và KIAUH cho máy in 3D chạy Klipper.  
 
@@ -33,7 +40,8 @@ Hướng dẫn cài đặt Klipper và KIAUH cho máy in 3D chạy Klipper.
 ### Quick links
 - [Seprinder_Bridge](https://github.com/seprinder/Seprinder_Bridge)
 - [Seprinder_Cura](https://github.com/seprinder/Seprinder_Cura)
-- [Seprinder_Machine](https://github.com/seprinder/Seprinder_Machine)
+- [Seprinder_Huong_Dan_Dang_San_Pham](https://github.com/seprinder/Seprinder_huong_dan_dang_san_pham)
+- [Seprinder_Huong_Dan_Them_May_In](https://github.com/seprinder/seprinder_huong_dan_them_may_in)
 - [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder/seprinder_cai_dat_klipper)
 
 ---
